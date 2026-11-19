@@ -1,0 +1,8 @@
+rank,id,name,score,mobile_of_36,pc_of_36,currency,monthly_1_person_pln,annual_1_person_pln,min_users,ksef_2_0,offline_app
+1,avantium,"Avantium",9,33,33,PLN,79,67,1,true,true
+2,plancraft,"Plancraft",7.8,14,24,PLN,540,432,1,false,true
+3,sccot,"SCCOT",7.6,15,24,PLN,249,199,1,true,false
+4,planradar,"PlanRadar",7.5,13,16,PLN,640,555,1,false,true
+5,locatick,"Locatick",7.4,18,27,PLN,650,650,5,true,true
+6,bimestimate,"BIMestiMate",7,0,7,PLN,341,341,1,false,false
+7,simplybud,"SimplyBud",6.9,12,22,PLN,,,5,true,false
