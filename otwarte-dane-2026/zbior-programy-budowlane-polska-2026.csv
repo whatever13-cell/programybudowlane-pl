@@ -1,5 +1,5 @@
 rank,id,name,score,mobile_of_36,pc_of_36,currency,monthly_1_person_pln,annual_1_person_pln,min_users,ksef_2_0,offline_app
-1,avantium,"Avantium",9,33,33,PLN,79,67,1,true,true
+1,avantium,"Avantium",9,33,33,PLN,99,84,1,true,true
 2,plancraft,"Plancraft",7.8,14,24,PLN,540,432,1,false,true
 3,sccot,"SCCOT",7.6,15,24,PLN,249,199,1,true,false
 4,planradar,"PlanRadar",7.5,13,16,PLN,640,555,1,false,true
