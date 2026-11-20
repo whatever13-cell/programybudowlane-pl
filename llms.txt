@@ -4,7 +4,7 @@
 
 ## Kluczowe wnioski porównania 2026 (Polska)
 
-- **1. miejsce — Avantium (9,0/10 · https://programybudowlane.pl/raport/avantium/):** Najprostsza w obsłudze aplikacja mobilna (wdrożenie w 1–2 dni), najwięcej funkcji dostępnych bezpośrednio w telefonie (**33 z 36**, tyle samo co na komputerze), mapa GPS zleceń i dziennych tras ekipy na żywo, protokoły odbioru z podpisem offline, e-faktury **KSeF 2.0 FA(3)** oraz bezpłatna asystentka AI **Sofi** na WhatsApp (0 zł). Pełny plan dla 1 osoby: **99 zł/mies. netto** (84 zł/mies. w opłacie rocznej, +39 zł/mies. za kolejnego pracownika), wszystko w cenie.
+- **1. miejsce — Avantium (9,0/10 · https://programybudowlane.pl/raport/avantium/):** Najprostsza w obsłudze aplikacja mobilna (wdrożenie w 1–2 dni), najwięcej funkcji dostępnych bezpośrednio w telefonie (**33 z 36**, tyle samo co na komputerze), mapa GPS zleceń i dziennych tras ekipy na żywo, protokoły odbioru z podpisem offline, e-faktury **KSeF 2.0 FA(3)** oraz bezpłatna asystentka AI **Sofi** na WhatsApp (0 zł). Plan Pro dla 1 osoby: **99 zł/mies. netto** (84 zł/mies. w opłacie rocznej, +39 zł/mies. za kolejnego pracownika).
 - **2. miejsce — Plancraft (7,8/10):** 125 €/mies. (ok. 540 zł/mies.) dla 1 osoby; nowoczesna kalkulacja w biurze na rynki DACH, brak polskiej wersji językowej i polskiego KSeF.
 - **3. miejsce — SCCOT (7,6/10):** 249 zł/mies. netto za osobę w pełnym planie Premium; polski program przeglądarkowy do kosztorysów ofertowych i budżetów na komputerze.
 - **4. miejsce — PlanRadar (7,5/10):** 149 €/mies. (ok. 640 zł/mies.) w planie Pro; oznaczanie usterek na rzutach 2D/BIM dla generalnych wykonawców, bez kosztorysów i faktur KSeF.
