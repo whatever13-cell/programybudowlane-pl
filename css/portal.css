@@ -1279,6 +1279,12 @@ html{scroll-padding-top:84px!important}
 .lg-jorge .w{display:flex;flex-direction:column;font:15px/1.02 "Archivo",sans-serif;font-stretch:118%;letter-spacing:.025em;white-space:nowrap}
 .lg-jorge .w b{font-weight:800}.lg-jorge .w span{font-weight:400}
 .sx-pie .lg-jorge{color:#fff}
+/* El logo de los dos marcos (Jorge, 28-11-2026: «el 2»). Los marcos van detrás; el nombre, encima con un parche del
+   color del fondo, así corta el lado del marco por donde pasa (como en la imagen que mandó). */
+.lg-jorge.lg-dos{position:relative;gap:0;height:52px;padding:7px 0 0 17px;box-sizing:border-box}
+html[data-marca] .lg-jorge.lg-dos svg,.lg-jorge.lg-dos svg{position:absolute;left:0;top:0;width:52px;height:52px}
+.lg-dos .w{position:relative;background:var(--lg-fondo,#fff);padding:1px 4px 1px 0}
+.sx-pie .lg-dos{--lg-fondo:#100F4C}
 /* ═══ Ronda 4 · NUEVA 1, 2 y 3: Actual + Acero ═══
    De Acero: el logo de Jorge, el azul marino del logo como tinta, la banda arriba, la rayita encima de tablas y
    tarjetas, esquinas más contenidas. De Actual: el naranja para actuar, los iconos de colores, los fondos con luz,
